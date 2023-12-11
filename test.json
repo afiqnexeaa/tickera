@@ -1,0 +1,15 @@
+{
+    "buyerInfo": {
+        "name": "",
+        "email": "",
+        "company": "",
+        "phone": ""
+    },
+
+    "ticketHolder": {
+        "name": "",
+        "email": "",
+        "company": "",
+        "phone": ""
+    }
+}
